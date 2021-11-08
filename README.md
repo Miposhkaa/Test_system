@@ -7,7 +7,7 @@
 # Ссылки
 1. Техническое задание
 2. Курсовая работа
-3. Trello
+3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
 4. Miro
 5. Презентация
 6. Приложение
