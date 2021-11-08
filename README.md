@@ -8,7 +8,7 @@
 1. Техническое задание
 2. Курсовая работа
 3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
-4. Miro
+4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
 5. Презентация
 6. Приложение
 7. Видео презентация
