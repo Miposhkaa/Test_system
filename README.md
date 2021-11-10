@@ -11,7 +11,7 @@
 4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
 5. Презентация
 6. [Приложение](http://a0598336.xsph.ru)
-7. Видео презентация
+7. [Видео презентация](https://disk.yandex.ru/d/W_O59vvY_8dRzA)
 # Email для связи
 Веремьёв Данил - Revers_fox@mail.ru  
 Рафаэль Асатрян - rafa-asat@yandex.ru
