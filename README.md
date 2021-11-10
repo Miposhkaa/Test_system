@@ -5,8 +5,8 @@
 1. Веремьёв Данил - Pm, Front-end разработчик, дизайнер, db архитектор.
 2. Асатрян Рафаэль - Back-end разработчик
 # Ссылки
-1. Техническое задание
-2. Курсовая работа
+1. [Техническое задание](https://github.com/Miposhkaa/Test_system/blob/main/Tekhnicheskoe_zadanie.docx)
+2. [Курсовая работа](https://github.com/Miposhkaa/Test_system/blob/main/Tekhnicheskoe_zadanie.docx)
 3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
 4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
 5. Презентация
