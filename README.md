@@ -9,7 +9,7 @@
 2. [Курсовая работа](https://github.com/Miposhkaa/Test_system/blob/main/ТП_КУРСОВАЯ%20.docx)
 3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
 4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
-5. Презентация
+5. [Презентация](https://github.com/Miposhkaa/Test_system/blob/main/Prezа.pptx)
 6. [Приложение](http://a0598336.xsph.ru)
 7. [Видео презентация](https://disk.yandex.ru/d/W_O59vvY_8dRzA)
 # Email для связи
