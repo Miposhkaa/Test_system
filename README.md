@@ -6,7 +6,7 @@
 2. Асатрян Рафаэль - Back-end разработчик
 # Ссылки
 1. [Техническое задание](https://github.com/Miposhkaa/Test_system/blob/main/Tekhnicheskoe_zadanie.docx)
-2. [Курсовая работа](https://github.com/Miposhkaa/Test_system/blob/main/Tekhnicheskoe_zadanie.docx)
+2. [Курсовая работа](https://github.com/Miposhkaa/Test_system/blob/main/ТП_КУРСОВАЯ%20.docx)
 3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
 4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
 5. Презентация
