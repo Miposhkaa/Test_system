@@ -10,7 +10,7 @@
 3. [Trello](https://trello.com/b/iqFHlMo5/testingsystem)
 4. [Miro](https://miro.com/app/board/o9J_llVAzX8=/)
 5. Презентация
-6. Приложение
+6. [Приложение](http://a0598336.xsph.ru)
 7. Видео презентация
 # Email для связи
 Веремьёв Данил - Revers_fox@mail.ru  
